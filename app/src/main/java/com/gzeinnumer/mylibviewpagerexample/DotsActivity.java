@@ -6,8 +6,8 @@ import androidx.fragment.app.FragmentPagerAdapter;
 import android.os.Bundle;
 
 import com.google.android.material.tabs.TabLayout;
-import com.gzeinnumer.mylibviewpager.SimpleViewPager;
-import com.gzeinnumer.mylibviewpager.adapter.ViewPagerAdapter;
+import com.gzeinnumer.evp.SimpleViewPager;
+import com.gzeinnumer.evp.adapter.ViewPagerAdapter;
 import com.gzeinnumer.mylibviewpagerexample.fr.FirstFragment;
 import com.gzeinnumer.mylibviewpagerexample.fr.SecondFragment;
 
